@@ -28,7 +28,7 @@ The goal of this project was to practice dashboard design, data storytelling, an
 # 📊 Dashboard Preview
 
 <p align="center">
-  <img src="images/dashboard-preview.png" alt="Netflix Dashboard" width="100%">
+  <img src="Images/dashboard-preview.png" alt="Netflix Dashboard" width="100%">
 </p>
 
 ---

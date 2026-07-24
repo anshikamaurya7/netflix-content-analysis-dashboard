@@ -1,0 +1,30 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Tableau temporary files
+*.tmp
+*.temp
+*.bak
+*.tfl
+*.twb~ 
+
+# Python cache (if you add preprocessing later)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Excel temporary files
+~$*.xlsx
